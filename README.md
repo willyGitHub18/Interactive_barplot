@@ -1,4 +1,4 @@
-# Building a Custom Visualization
+# Building a Custom - Interactive Visualization
 
 In this assignment you must choose one of the options presented below and submit a visual as well as your source code for peer grading. The details of how you solve the assignment are up to you, although your assignment must use matplotlib so that your peers can evaluate your work.
 
